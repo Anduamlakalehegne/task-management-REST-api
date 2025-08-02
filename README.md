@@ -70,7 +70,7 @@ CREATE TABLE tasks (
 1. **Clone or download the project**
    ```bash
    git clone <repository-url>
-   cd task-management-api
+   cd task-management-REST-api
    ```
 
 2. **Build and run with Docker Compose**
@@ -93,7 +93,7 @@ CREATE TABLE tasks (
 1. **Clone the project**
    ```bash
    git clone <repository-url>
-   cd task-management-api
+   cd task-management-REST-api
    ```
 
 2. **Initialize the database**
