@@ -69,7 +69,7 @@ CREATE TABLE tasks (
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Anduamlakalehegne/task-management-REST-api>
    cd task-management-REST-api
    ```
 
@@ -92,7 +92,7 @@ CREATE TABLE tasks (
 
 1. **Clone the project**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Anduamlakalehegne/task-management-REST-api>
    cd task-management-REST-api
    ```
 
